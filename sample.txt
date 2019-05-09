@@ -1,2 +1,3 @@
 ƒTƒ‹‚Å‚à‚í‚©‚éGitƒRƒ}ƒ“ƒh
-Commit‚ÆPush‚ÌÀŒ±
+Commit‚ÆPush‚ÌÀŒ
+hoge±
